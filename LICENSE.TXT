@@ -1,21 +1,21 @@
 
                                     LMIT
                  License Massachusetts Institute Technology
-                    Copyright (C) 1991-2023 F·bio Santos
+                    Copyright (C) 1991-2024 F√°bio Santos
 
 ----------------------------------------------------------------------------
 
- Todos os cÛdigos, s„o protegidos exclusivamente por direitos autorais, lei
- de propriedade intelectual, n„o podem ser vendidos. VocÍ tem direito legal
+ Todos os c√≥digos, s√£o protegidos exclusivamente por direitos autorais, lei
+ de propriedade intelectual, n√£o podem ser vendidos. Voc√™ tem direito legal
  de usar, copiar, modificar e distribuir como desejar, para desenvolvimento
  de projetos, desde que concorde com os termos de uso e garantia.
 
- Os cÛdigos @Fabasa-Pro s„o sempre fornecidos "COMO EST√O", sem garantia de
- qualquer tipo. O AUTOR SE ISENTA DE GARANTIAS, EXPRESSAS E IMPLÕCITAS, MAS
- N√O ¿S GARANTIAS DE COMERCIALIZA«√O para as jurisdiÁıes que n„o permitem a
- exclus„o ou limitaÁıes de garantias implÌcitas, portanto, as limitaÁıes ou
- as exclusıes acima podem n„o se aplicar mesmo que previamente comunicadas,
- onde o 'AUTOR' tambÈm n„o ser· respons·vel por quaisquer danos resultantes
- de uso modificado, cÛpias ou distribuiÁıes.
+ Os c√≥digos @Fabasa-Pro s√£o sempre fornecidos "COMO EST√ÉO", sem garantia de
+ qualquer tipo. O AUTOR SE ISENTA DE GARANTIAS, EXPRESSAS E IMPL√çCITAS, MAS
+ N√ÉO √ÄS GARANTIAS DE COMERCIALIZA√á√ÉO para as jurisdi√ß√µes que n√£o permitem a
+ exclus√£o ou limita√ß√µes de garantias impl√≠citas, portanto, as limita√ß√µes ou
+ as exclus√µes acima podem n√£o se aplicar mesmo que previamente comunicadas,
+ onde o 'AUTOR' tamb√©m n√£o ser√° respons√°vel por quaisquer danos resultantes
+ de uso modificado, c√≥pias ou distribui√ß√µes.
 
 ----------------------------------------------------------------------------
